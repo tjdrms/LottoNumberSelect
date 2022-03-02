@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">로또 번호 추첨기</string>
+    <string name="addNumber">번호 추가하기</string>
+    <string name="clear">초기화</string>
+    <string name="pick">자동 생성 시작!</string>
+    <string name="number1">1</string>
+</resources>
